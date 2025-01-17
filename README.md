@@ -34,6 +34,36 @@ This repository aims to:
 Access our detailed charts and insights to explore terrorism's impact and frequency globally.
 
 ---
-## Data Source:
-[Data Source](https://www.kaggle.com/code/harshjaiswal/global-terrorism-report/input?select=globalterrorismdb_0718dist.csv)
+## 📂 Dataset: Global Terrorism Report
+
+The dataset for this project is sourced from **Kaggle** and can be accessed through the following link:  
+[Global Terrorism Report Dataset](https://www.kaggle.com/code/harshjaiswal/global-terrorism-report/input?select=globalterrorismdb_0718dist.csv)  
+
+### About the Dataset:
+This dataset is part of the **Global Terrorism Database (GTD)**, an extensive open-source collection of data on terrorist events worldwide. The GTD is a widely recognized and reliable source of information, providing detailed records of terrorist activities from different regions and time periods.
+
+### Key Features of the Dataset:
+- **Time Frame**: Covers global terrorist incidents from **1970 to 2017**.
+- **Global Coverage**: Includes data on terrorism from virtually every country, with specific details about geographic regions, including the Middle East, Africa, South Asia, and others.
+- **Attributes**:
+  - **Date and Location**: Information about the date, country, and region where the incident occurred.
+  - **Attack Characteristics**: Includes the type of attack (e.g., bombing, armed assault), target type (e.g., civilian, military), and weapon used.
+  - **Casualties**: Number of fatalities and injuries for each event.
+  - **Perpetrators**: Information about terrorist groups or individuals responsible for the attack.
+  - **Additional Information**: Contextual data such as motives, attack outcomes, and whether the attack was successful or failed.
+
+### Dataset File:
+- **File Name**: `globalterrorismdb_0718dist.csv`
+- **Format**: CSV
+- **File Size**: ~150MB
+- **Number of Records**: Over **180,000 entries** of detailed records on terrorist incidents worldwide.
+
+### Purpose of the Dataset:
+This dataset serves as a valuable resource for:
+- Understanding the trends and patterns of terrorism globally.
+- Analyzing regional and temporal variations in terrorist activities.
+- Assessing the impact of terrorism on global societies and security policies.
+- Providing insights for policymakers and researchers in combating terrorism and understanding its global implications.
+
+
 
