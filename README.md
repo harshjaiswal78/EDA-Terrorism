@@ -34,8 +34,6 @@ This repository aims to:
 Access our detailed charts and insights to explore terrorism's impact and frequency globally.
 
 ---
+## Data Source:
+[Data Source](https://www.kaggle.com/code/harshjaiswal/global-terrorism-report/input?select=globalterrorismdb_0718dist.csv)
 
-## Contribution
-Contributions to expand this analysis are welcome! Feel free to fork the repository, submit issues, or create pull requests.
-
----
