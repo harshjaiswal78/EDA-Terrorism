@@ -66,16 +66,19 @@ This dataset serves as a valuable resource for:
 - Providing insights for policymakers and researchers in combating terrorism and understanding its global implications.
 
 
-### 🌍 Global Terrorism Analysis Report
+# 🌍 Global Terrorism Analysis Report
 
-This project analyzes global terrorism trends using a comprehensive dataset. 📊 Key findings include:
-	•	📅 Yearly Trends: Terrorist activities peak during global conflicts, highlighting the link between instability and attacks.
-	•	🎯 Attack Types: Bombings and armed assaults dominate, requiring targeted counter-measures.
-	•	🌏 Regional Insights: The Middle East and South Asia are most affected, emphasizing the need for international cooperation.
-	•	✅ Success Rates: Over 70% of attacks are successful, underscoring operational efficiency of groups like ISIS and Al-Qaeda.
+This project analyzes global terrorism trends using a comprehensive dataset. 📊 
 
-🔒 These insights aim to support counter-terrorism strategies by identifying patterns and hotspots for focused interventions. 🚀
+### Key findings include:
+- 📅 **Yearly Trends**: Terrorist activities peak during global conflicts, highlighting the link between instability and attacks.
+- 🎯 **Attack Types**: Bombings and armed assaults dominate, requiring targeted counter-measures.
+- 🌏 **Regional Insights**: The Middle East and South Asia are most affected, emphasizing the need for international cooperation.
+- ✅ **Success Rates**: Over 70% of attacks are successful, underscoring operational efficiency of groups like ISIS and Al-Qaeda.
 
+---
+
+Feel free to ⭐ this repository or contribute your insights! 🚀
 
 
 
